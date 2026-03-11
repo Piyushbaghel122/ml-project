@@ -1,0 +1,22 @@
+[
+  {
+    "name":"piush",
+    "Gender":"Female",
+    "passed":"Yes"
+  },
+  {
+    "name":"Bob",
+    "Gender":"Male",
+    "passed":"No"
+  },
+  {
+    "name":"Cara",
+    "Gender":"Female",
+    "passed":"Yes"
+  },
+  {
+    "name":"David",
+    "Gender":"Male",
+    "passed":"No"
+  }
+]

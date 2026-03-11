@@ -1,0 +1,15 @@
+{
+  "python.defaultInterpreterPath": "C:\\Program Files\\Python314\\python.exe",
+  "code-runner.executorMap": {
+    "python": "& \"C:\\Program Files\\Python314\\python.exe\" -u"
+  },
+  "terminal.integrated.profiles.windows": {
+    "PowerShell (No Profile)": {
+      "source": "PowerShell",
+      "args": [
+        "-NoProfile"
+      ]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell (No Profile)"
+}
