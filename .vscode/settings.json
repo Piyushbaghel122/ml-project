@@ -1,13 +1,16 @@
 {
-  "python.defaultInterpreterPath": "C:\\Program Files\\Python314\\python.exe",
+  "python.defaultInterpreterPath": "C:\\Users\\asus\\Desktop\\ml\\sklearn-env\\Scripts\\python.exe",
   "code-runner.executorMap": {
-    "python": "& \"C:\\Program Files\\Python314\\python.exe\" -u"
+    "python": "& \"C:\\Users\\asus\\Desktop\\ml\\sklearn-env\\Scripts\\python.exe\" -u"
   },
   "terminal.integrated.profiles.windows": {
     "PowerShell (No Profile)": {
-      "source": "PowerShell",
+      "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
       "args": [
-        "-NoProfile"
+        "-NoExit",
+        "-NoProfile",
+        "-Command",
+        "$env:PATH='C:\\Program Files\\Git\\cmd;'+$env:PATH"
       ]
     }
   },
